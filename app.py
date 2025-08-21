@@ -22,7 +22,7 @@ if st.button("Get Data"):
         "periode": periode,
         "kodehs": kodehs,
         "jenishs": jenishs,
-        "Tahun": tahun,
+        "tahun": tahun,
         "key": api_key
     }
 
